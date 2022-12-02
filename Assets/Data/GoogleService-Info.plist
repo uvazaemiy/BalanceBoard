@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>165540273203-dm1h0f8bss3m5f4k2839bh9raag6grq9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.165540273203-dm1h0f8bss3m5f4k2839bh9raag6grq9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>165540273203-1vtdfqbs6tl9os5gnv07apujrmbqk9h8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQjUPPJ8DyQZpMbv_mgY3uKJfrL7kDazA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>165540273203</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.BGgames.BalanceBoardFix</string>
+	<key>PROJECT_ID</key>
+	<string>balanceboard-fix</string>
+	<key>STORAGE_BUCKET</key>
+	<string>balanceboard-fix.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:165540273203:ios:012a716a8462f5c4079746</string>
+	<key>DATABASE_URL</key>
+	<string>https://balanceboard-fix-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

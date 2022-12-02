@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b7cd0dc0568b9fd44ae97ecc2f205f77
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - RF Dewi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 80342b0f1a9ad11419736e7648a984c9, type: 3}
+  - {fileID: 12800000, guid: 44862c73410457b48b65064716b08eb1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

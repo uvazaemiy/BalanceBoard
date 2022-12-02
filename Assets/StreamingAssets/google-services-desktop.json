@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "165540273203",
+    "firebase_url": "https://balanceboard-fix-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "balanceboard-fix",
+    "storage_bucket": "balanceboard-fix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165540273203:android:974c6b9d4529f06e079746",
+        "android_client_info": {
+          "package_name": "com.BGgames.BalanceBoardFix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165540273203-1vtdfqbs6tl9os5gnv07apujrmbqk9h8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.BGgames.BalanceBoardFix",
+            "certificate_hash": "01a1de42fce4c64193078097f16491158c04abf2"
+          }
+        },
+        {
+          "client_id": "165540273203-f549n4ki4tdo1fe426hdb68s92fd1101.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2iPCwlD54OvoxAM0Kn1P1G3hybWtBYzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165540273203-f549n4ki4tdo1fe426hdb68s92fd1101.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "165540273203-dm1h0f8bss3m5f4k2839bh9raag6grq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.BGgames.BalanceBoardFix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
